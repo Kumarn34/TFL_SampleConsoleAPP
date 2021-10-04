@@ -26,7 +26,7 @@ cd "..\TFLSampleConsoleApp\bin\Release\netcoreapp3.1\"
 provide executable name TFLSampleConsoleApp.exe
 ..\TFLSampleConsoleApp\bin\Release\netcoreapp3.1> TFLSampleConsoleApp.exe
 
-Below screen will populate on common prompt and provide valid road name A2 then result will be as follows
+Below screen will populate on commond prompt and provide valid road name A2 then result will be as follows
 
 
  Transport of London : Consume Road API :
